@@ -16,8 +16,7 @@ Lalu masuk ke bagian input user untuk menentukan jenis kamar yang menggunakan lo
 <BR>
 <img width="211" height="71" alt="Screenshot 2026-09-22 213310" src="https://github.com/user-attachments/assets/e7ac4adc-ceb5-4b15-8942-afc5db7ab526" />
 
-Lalu lanjut memanggil variabel total biaya yang sudah di return diawal dengan argumen berupa variabel input jenis kamar dan lama menginap dan menunjukkan print rincian pemesanan hotel dengan memanggil variabel yang sudah dibuat
-
+Lalu lanjut memanggil function biayaKamar dipanggil dengan argumen berupa variabel jenis kamar dan lama menginap, hasilnya disimpan ke variabel totalBiaya. Terakhir, program menampilkan rincian pemesanan hotel dengan mencetak variabel-variabel yang sudah dibuat
 
 OUTPUT:
 <img width="960" height="600" alt="Screenshot 2026-09-22 212440" src="https://github.com/user-attachments/assets/ed290147-fe47-4f31-bdd0-c62f7c04467c" />
